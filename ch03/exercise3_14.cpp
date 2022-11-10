@@ -16,5 +16,7 @@ int main()
 	{
 		v.push_back(i);
 	}
+	for (auto i:v)
+		cout<<i<<endl;
 	return 0;
 }
