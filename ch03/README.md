@@ -98,7 +98,7 @@ vector<string> v7{ 10, "hi" };  // size:10, value:"hi"
 ## [练习3.14](exercise3_14.cpp)
 
 > 编写一段程序，用cin读入一组整数并把它们存入一个vector对象。
-
+* [**读入整数存进数组**](exercise3_14.cpp)
 ## [练习3.15](exercise3_15.cpp)
 
 > 改写上题程序，不过这次读入的是字符串。
